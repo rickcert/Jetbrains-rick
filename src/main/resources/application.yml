@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: Jetbrains-Help
+  thymeleaf:
+    cache: false
+server:
+  port: 10768
+help:
+  default-license-name: jetbrain.crond.dev
+  default-assignee-name: rick
+  default-expiry-date: 2025-12-31
